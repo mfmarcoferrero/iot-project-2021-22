@@ -1,5 +1,5 @@
 /**
- *  Source file for implementation of module sendAckC in which
+ *  Source file for implementation of module braceletC in which
  *  the node 1 send a request to node 2 until it receives a response (same for sensors 3 and 4).
  *  The reply message contains a reading from the Fake Sensor.
  *	
